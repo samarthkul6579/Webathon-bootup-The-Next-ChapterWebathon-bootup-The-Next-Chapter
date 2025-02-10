@@ -1,0 +1,11 @@
+// How many loops in JavaScript, and how do they work?
+
+for Loop: Best when you know the number of iterations.
+
+while Loop: Runs as long as the condition is true.
+
+do-while Loop: Similar to while, but always runs at least once.
+
+for-in Loop: Iterates over the properties of an object.
+
+for-of Loop: Iterates over the values of an iterable object.
