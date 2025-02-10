@@ -1,0 +1,7 @@
+// What is the difference between var, let, and const in JavaScript?
+
+we Use var for function-scoped variables, though it's generally recommended to use let or const instead due to their more predictable behavior.
+
+we Use let for block-scoped variables that you expect to reassign later.
+
+we Use const for block-scoped variables that you do not want to reassign.
