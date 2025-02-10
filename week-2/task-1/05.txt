@@ -1,0 +1,5 @@
+// Explain the difference between null and undefined in JavaScript.
+
+undefined :- undefined means a variable has been declared but not yet assigned a value, or a function doesn’t return anything.
+
+null:- null is an assignment value representing "no value" or "empty," and must be explicitly assigned.
