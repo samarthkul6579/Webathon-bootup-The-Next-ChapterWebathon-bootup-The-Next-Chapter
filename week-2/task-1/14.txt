@@ -1,0 +1,10 @@
+// What are functions in JavaScript, and how do you declare them?
+
+
+Functions in JavaScript are blocks of code designed to perform a specific task.
+
+function declaration :-
+function functionName(parameters) {
+    // Code to be executed
+  }
+  
